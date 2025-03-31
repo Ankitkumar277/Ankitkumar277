@@ -12,7 +12,7 @@ HELLO EVERYONE
 
 - 📫 How to reach me **ankitrathor272005@gmail.com**
 
-- ⚡ Fun fact **💡 Fun Fact: I'm on an exciting journey to become a MERN stack developer!🚀**
+- ⚡ Fun fact **💡 I'm on an exciting journey to become a MERN stack developer!🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
